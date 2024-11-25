@@ -54,3 +54,5 @@ This project is an interactive web page that allows users to input text, customi
    - A text input field for entering messages.
    - Buttons and controls for text formatting.
    - A read-only box displaying the styled text.
+  
+WebSite Link : http://127.0.0.1:5500/04_assesment/index.html
