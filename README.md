@@ -1,1 +1,2 @@
-This project is an interactive web page that allows users to input text, customize its styling, and view the styled text in real-time in a read-only text area. 
+This repo is a project repo  in which only the basic project by using html css and java script . 
+this project is for only practice purpose and buld the logic and inhence skills. 
